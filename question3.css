@@ -1,0 +1,34 @@
+body{
+  font-family: Georgia monospace;
+  font-size: 120%
+}
+
+h1{
+  background-color: #666600;
+  color: #ffff4d;
+  height: 90px;
+  padding-top: 50px;
+  text-align: center;
+}
+
+span{
+  font-style: italic;
+}
+
+table{
+  border-width: 2px;
+  border-style: solid;
+  border-color: green;
+}
+
+caption{
+  font-weight: bold;
+}
+
+td{
+  padding: 10px;
+}
+
+tfoot{
+  text-align: right;
+}
